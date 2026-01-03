@@ -161,6 +161,43 @@ npm run build
 
 ---
 
+## 💬 Actual Prompts Used
+
+Here are the exact prompts I used to build this app with AI assistance:
+
+1. **Initial prompt** (with full challenge requirements):
+   > "lets create a clean UI minamalist priorty board to help people organize their life, lets do something we can deploy quickly like vercel we have one hour we'll want to do a quick end to end implementation"
+
+2. > "lets add some elegance with GSAP and react animation UI to the landing page and then have a simplistic dashboard"
+
+3. > "ok the main landing page is only half the page and our dashboard is all black"
+
+4. > "landing page is good but dashboard is all black"
+
+5. > "ok this is no good I think we need a complete redesign lets make the task that should be being worked on big bold and in the middle with a box around it, the subsequent tasks below it centered and getting smaller as it goes down so each task a little smaller, remove all emojis from the app and give the app a shadcn type look even on the landing page"
+
+6. > "ok great but we want to make the task at hand the main priorty and the rest of the tasks below it getting smaller almost like the tasks are on a cylinder and you should be able to read the whole task"
+
+7. > "I want the main task to be at the top of the page then just a simple add task box with a plus icon to add it above it... we can leave the header Priority Board"
+
+8. > "lets add a calculated time value to the right of the task in a big bold font based on the complexity of the task"
+
+9. > "ok this is great add like 10 real life sounding tasks that an average person would have to do during the day work and non work related"
+
+10. > "can we make it so you can click and drag and it spin cycles through the tasks"
+
+11. > "Drag or scroll to cycle through tasks lets make this at the very bottom of the page and can we make the tasks a little closer together and exagerate the size difference"
+
+12. > "lets make a way you can complete the task so it clears it out the list"
+
+13. > "can we make our landing page have like cool gsap or react animation of typography letters falling into the page from the top, big ones that say 'Prioritize' for a nice wow factor"
+
+14. > "ok can we push this to vercel"
+
+15. > "lets make it so when you click the header it will go back to the landing page"
+
+---
+
 ## 📜 License
 
 MIT
